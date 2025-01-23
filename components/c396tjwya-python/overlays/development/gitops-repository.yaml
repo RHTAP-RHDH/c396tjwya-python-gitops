@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: c396tjwya-python-gitops-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/c396tjwya-python-gitops
